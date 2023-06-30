@@ -1,2 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Be+Vietnam+Pro&family=Bruno+Ace+SC&family=Caprasimo&family=Epilogue&family=Montserrat+Alternates:wght@200&family=Oooh+Baby&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Be+Vietnam+Pro&family=Bruno+Ace+SC&family=Caprasimo&family=Epilogue&family=Montserrat+Alternates:wght@200&family=Oooh+Baby&family=Playfair+Display&display=swap');
+
+.intro-cnt {
+  display: flex;
+  padding-top: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-header {
+  font-size: 65px;
+  font-family: 'Caprasimo', cursive;
+}
+
+.intro-para {
+  font-size: 35px;
+  font-family: 'Playfair Display', serif;
+}
+
+.intro-loc {
+  font-size: 25px;
+}
+
+.intro-arrow {
+  font-size: 95px;
+}

@@ -7,8 +7,10 @@ import Nav from '../../components/nav/Nav';
 const HomePage = () => {
   return (
     <div className='main-div'>
-      <Nav />
-      <IntroComp />
+      <div className='home-first'>
+        <Nav />
+        <IntroComp />
+      </div>
     </div>
   );
 };

@@ -4,7 +4,10 @@ import './navStyle.css';
 const Nav = () => {
   return (
     <div className='nav-cnt'>
-      <p className='nav-para'>My Store</p>
+      <div>
+        <p className='nav-para'>My Store</p>
+      </div>
+      <div></div>
     </div>
   );
 };
