@@ -3,6 +3,7 @@ import React from 'react';
 import './homePgStyle.css';
 import IntroComp from '../../components/introComp/IntroComp';
 import Nav from '../../components/nav/Nav';
+import Food from '../../components/food/Food';
 
 const HomePage = () => {
   return (
@@ -11,6 +12,7 @@ const HomePage = () => {
         <Nav />
         <IntroComp />
       </div>
+      <Food />
     </div>
   );
 };
