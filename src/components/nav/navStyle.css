@@ -1,0 +1,8 @@
+.nav-para {
+  background-image: url('https://media.giphy.com/media/xT4uQ6HaStH5UX7EBO/giphy.gif');
+  background-size: cover;
+  font-size: 45px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Caprasimo', cursive;
+}
