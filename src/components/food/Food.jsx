@@ -3,8 +3,7 @@ import React from 'react';
 import './foodStyle.css';
 
 import coffee from '../../assest/img/coffee.jpg';
-
-import food from '../../assest/img/food.jpg';
+import capachino from '../../assest/img/capachino.jpg';
 
 import { motion } from 'framer-motion';
 
@@ -20,6 +19,9 @@ const Food = () => {
       </div>
       <div className='foodComp-img-cnt'>
         <img className='foodComp-img' src={coffee} alt='' />
+      </div>
+      <div className='foodComp-img-cnt'>
+        <img className='foodComp-img' src={capachino} alt='' />
       </div>
     </motion.div>
   );

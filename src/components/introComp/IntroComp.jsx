@@ -3,7 +3,6 @@ import React from 'react';
 import { AiFillCaretDown } from 'react-icons/ai';
 
 import './introStyle.css';
-import background from '../../assest/img/nathan-dumlao-XOhI_kW_TaM-unsplash.jpg';
 
 const IntroComp = () => {
   return (

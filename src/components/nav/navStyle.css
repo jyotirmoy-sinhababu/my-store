@@ -6,3 +6,8 @@
   -webkit-text-fill-color: transparent;
   font-family: 'Caprasimo', cursive;
 }
+
+.nav-cnt {
+  padding-left: 2.2rem;
+  padding-top: 1.2rem;
+}

@@ -7,7 +7,6 @@ const Nav = () => {
       <div>
         <p className='nav-para'>My Store</p>
       </div>
-      <div></div>
     </div>
   );
 };
