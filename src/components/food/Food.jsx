@@ -1,5 +1,10 @@
 import React from 'react';
+
 import './foodStyle.css';
+
+import coffee from '../../assest/img/coffee.jpg';
+
+import food from '../../assest/img/food.jpg';
 
 import { motion } from 'framer-motion';
 
@@ -14,7 +19,7 @@ const Food = () => {
         <p className='foodComp-para'>All your favourite drinks are here</p>
       </div>
       <div className='foodComp-img-cnt'>
-        <img className='foodComp-img' src='' alt='' />
+        <img className='foodComp-img' src={coffee} alt='' />
       </div>
     </motion.div>
   );
